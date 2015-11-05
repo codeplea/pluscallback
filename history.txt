@@ -1,0 +1,11 @@
+Version 1.7 - October 2010
+Fixed memory bug with multiple inheritance, virtual inheritance, or unknown classes
+
+Version 1.5 - March 2010
+Callback allocates internal objects with placement new
+
+Version 1.4 - March 2010
+Fixed bug in case of self assignment of callback object
+
+Version 1.3 - March 2010
+First public release
