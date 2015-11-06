@@ -49,6 +49,6 @@ Some examples are included in the examples directory:
 ##Building Instructions
 This library comes pre-built. If you would like to rebuild this
 library, you need to run build.tcl with the TCL interpreter. You
-can obtain TCL from http:://www.tcl.tk/
+can obtain TCL from http://www.tcl.tk/
 When rebuilding, you can change the maximum number of parameters
 supported by callbacks.
