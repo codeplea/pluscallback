@@ -1,6 +1,6 @@
 #C++ Callback Library: PlusCallback
 
-*Find the latest version and more documentation at:*
+*Additional documentation at:*
 http://codeplea.com/pluscallback
 
 ##Intro
